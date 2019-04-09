@@ -9,4 +9,4 @@ function sayHiToGrandma (string)
 console.log (sayHiToGrandma);
 function sayHiToGrandma(string)
 {return string.toUpperCase("YES INDEED!")}
-if(string="I love you, Grandma.") {return string.toLowerCase("I love you, too.")}
+if(string=="I love you, Grandma.") {return string.toLowerCase("I love you, too.")}
