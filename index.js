@@ -7,7 +7,7 @@ function shout (string)
 function whisper (string)
 {console.log(string.toLowerCase())}
 function sayHiToGrandma (string)
-{return string.toLowerCase("I Can\'t hear you!")}
+{if return string.toLowerCase("I Can\'t hear you!")}
 console.log (sayHiToGrandma);
 function sayHiToGrandma(string)
 {return string.toUpperCase("YES INDEED!")}
